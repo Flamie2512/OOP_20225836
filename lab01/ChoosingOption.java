@@ -18,5 +18,3 @@ public class ChoosingOption {
         System.exit(0);
     }
 }
-
-//khi nhan cancel thi lua chon se la No
